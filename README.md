@@ -18,12 +18,12 @@ Now you can open the terminal and click settings under the menu arrow next to th
         "hidden": false,
         "name": "PowerShell", //Replace this with your tab
         "source": "Windows.Terminal.PowershellCore", //This one too
-        "fontFace": "Lucida Sans Typewriter Regular",
+        //"fontFace": "Lucida Sans Typewriter Regular", //Deprecated option
         "experimental.retroTerminalEffect": true,
         "colorScheme": "Fallout",
         "backgroundImage" : "ms-appdata:///roaming/background.png", //or whatever your background file is named
         "backgroundImageOpacity" : 0.5,
-        "backgroundImageStrechMode" : "fill"
+        // "backgroundImageStrechMode" : "fill" //Deprecated option
     }
 
 and under "schemes" below add the following:
