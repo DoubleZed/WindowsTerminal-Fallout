@@ -11,7 +11,9 @@ First download the terminal background image, you can use any you find. Here is 
 
 Navigate to %localappdata%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState and add the background image. For the below code to work you have to name it background.png
 
-Now you can open the terminal and click settings under the menu arrow next to the open tab. The settings.json will open. Under the right GUID (E.g. PowerShell, Ubuntu, CMD), add the following lines:                
+Now you can open the terminal and click settings under the menu arrow next to the open tab. Then click on "Open JSON file" bottom left of the terminal settings window.
+
+The settings.json will open. Under the right GUID (E.g. PowerShell, Ubuntu, CMD), add the following lines:                
 
     {
         "guid": "{xxxxxxx-xxxx-xxxx-xxxx-xxxxxxx}", //Replace this with yours
