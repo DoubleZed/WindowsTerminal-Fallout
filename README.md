@@ -1,13 +1,14 @@
 # Fallout Theme for the Windows Terminal
 
-![Fallout Terminal Sample](https://github.com/Lukasedv/themes/blob/master/animation.gif)
+![WindowsTerminal-Fallout](https://github.com/DoubleZed/WindowsTerminal-Fallout/blob/master/animation.gif)
 
 ## Installation
-You can download the Windows Terminal here: https://github.com/microsoft/terminal
+You can download the Windows Terminal here: https://github.com/microsoft/terminal or from the Windows Store.
 
-First download the terminal background image, you can use any you find. Here is the one I am using: 
+You will need to download a terminal background image if you want the background to not be just a solid color. Here are a couple options:
 
-![Fallout Terminal Background](https://github.com/Lukasedv/themes/blob/master/background.png)
+![WindowsTerminal-Fallout](https://github.com/DoubleZed/WindowsTerminal-Fallout/blob/master/background.png)
+![WindowsTerminal-Fallout](https://github.com/DoubleZed/WindowsTerminal-Fallout/blob/master/background_purple.png)
 
 Navigate to %localappdata%\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\RoamingState and add the background image. For the below code to work you have to name it background.png
 
