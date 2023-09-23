@@ -20,12 +20,10 @@ The settings.json will open. Under the right GUID (E.g. PowerShell, Ubuntu, CMD)
         "hidden": false,
         "name": "PowerShell", //Replace this with your tab
         "source": "Windows.Terminal.PowershellCore", //This one too
-        //"fontFace": "Lucida Sans Typewriter Regular", //Deprecated option
         "experimental.retroTerminalEffect": true,
         "colorScheme": "Fallout",
         "backgroundImage" : "ms-appdata:///roaming/background.png", //or whatever your background file is named
-        "backgroundImageOpacity" : 0.5,
-        // "backgroundImageStrechMode" : "fill" //Deprecated option
+        "backgroundImageOpacity" : 0.5
     }
 
 and under "schemes" below add the following:
